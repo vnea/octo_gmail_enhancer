@@ -28,3 +28,13 @@ Commencer par télécharger l'extension :
 ### Avec l'extension
 
 ![01_mail_object_after](doc/img/01_mail_object_with.png)
+
+## 2. Suppression de l'occurence "external" dans l'objet quand le mail est ouvert
+
+### Sans l'extension
+
+![01_mail_object_before](doc/img/02_mail_opened_object_without.png)
+
+### Avec l'extension
+
+![01_mail_object_after](doc/img/02_mail_opened_object_with.png)

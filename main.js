@@ -10,4 +10,8 @@
         removeOccurenceFromHtmlElement($fullMailObject.find("span[data-thread-id]"), "[External] ")
         removeOccurenceFromHtmlElement($fullMailObject.find(">span"), "This message is from an EXTERNAL SENDER - be CAUTIOUS, particularly with links and attachments. ")
     })
+
+    $(document).arrive("h2[data-thread-perm-id]", objectMailOpened => {
+        removeOccurenceFromHtmlElement($(objectMailOpened), "[External] ")
+    })
 })()
