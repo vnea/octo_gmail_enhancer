@@ -1,6 +1,6 @@
 {
   "name": "OCTO Gmail enhancer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cette extension permet de supprimer les choses inutiles sur le Gmail d'OCTO/ACN",
   "manifest_version": 3,
   "content_scripts": [
