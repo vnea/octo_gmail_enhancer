@@ -10,6 +10,8 @@ Commencer par télécharger l'extension :
   souhaitée.
 * Désarchiver l'archive.
 
+En cas d'installation d'une nouvelle version, supprimer l'ancienne version avant d'installer la nouvelle.
+
 ## Google Chrome
 
 * Ouvrir l'application `Google Chrome`.
