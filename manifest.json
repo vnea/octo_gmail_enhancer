@@ -1,0 +1,21 @@
+{
+  "name": "OCTO Gmail enhancer",
+  "version": "1.0",
+  "description": "This extension enhances OCTO Gmail by removing useless things",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": [
+        "https://mail.google.com/*"
+      ],
+      "js": [
+        "jquery-3.4.1.min.js",
+        "arrive-2.4.1.min.js",
+        "main.js"
+      ]
+    }
+  ],
+  "action": {
+    "default_icon": "icon.png"
+  }
+}
