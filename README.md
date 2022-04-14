@@ -35,8 +35,18 @@ En cas d'installation d'une nouvelle version, supprimer l'ancienne version avant
 
 ### Sans l'extension
 
-![01_mail_object_before](doc/img/02_mail_opened_object_without.png)
+![02_mail_opened_object_without](doc/img/02_mail_opened_object_without.png)
 
 ### Avec l'extension
 
-![01_mail_object_after](doc/img/02_mail_opened_object_with.png)
+![02_mail_opened_object_with](doc/img/02_mail_opened_object_with.png)
+
+## 3. Suppression de l'occurence "external" en haut du mail quand il est ouvert
+
+### Sans l'extension
+
+![03_mail_opened_external_sender_message_without](doc/img/03_mail_opened_external_sender_message_without.png)
+
+### Avec l'extension
+
+![03_mail_opened_external_sender_message_with](doc/img/03_mail_opened_external_sender_message_with.png)

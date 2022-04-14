@@ -14,4 +14,11 @@
     $(document).arrive("h2[data-thread-perm-id]", objectMailOpened => {
         removeOccurenceFromHtmlElement($(objectMailOpened), "[External] ")
     })
+
+    $(document).arrive("center", potentialExternalSenderMessage => {
+        const $potentialExternalSenderMessage = $(potentialExternalSenderMessage)
+        if ($potentialExternalSenderMessage.text().startsWith("This message is from an EXTERNAL SENDER")) {
+            $potentialExternalSenderMessage.remove()
+        }
+    })
 })()
