@@ -1,6 +1,6 @@
 {
   "name": "OCTO Gmail enhancer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Cette extension permet de simplifier l'affichage du Gmail d'OCTO/ACN en supprimant le \"bruit\"",
   "manifest_version": 3,
   "content_scripts": [
