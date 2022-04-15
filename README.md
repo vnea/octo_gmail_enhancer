@@ -19,6 +19,10 @@ En cas d'installation d'une nouvelle version, supprimer l'ancienne version avant
 * Activer le mode `Mode développeur` (en haut à droite).
 * Cliquer sur le bouton `Charger l'extension non empaquetée` et sélectionner le dossier désarchivé.
 
+Attention : à cause de la politique Accenture, si vous êtes connecté avec votre compte Accenture sur l'application
+Google Chrome, il ne sera pas possible d'installer des extensions dont celle-ci. L'alternative est d'utiliser un autre
+navigateur ou tout simplement de ne pas se connecter avec son compte Accenture.
+
 # II. Features
 
 ## 1. Suppression des occurrences de "external" dans l'objet de chaque email sur la page d'accueil
