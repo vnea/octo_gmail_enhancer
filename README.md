@@ -1,6 +1,6 @@
-# OCTO Gmail Enhancer
+# OCTO Gmail Enhancer <img src="icon.png" alt="icon" width="25px" />
 
-Cette extension permet de supprimer les choses inutiles sur le Gmail d'OCTO/ACN.
+Cette extension permet de simplifier l'affichage du Gmail d'OCTO/ACN en supprimant le "bruit".
 
 # I. Installation
 
